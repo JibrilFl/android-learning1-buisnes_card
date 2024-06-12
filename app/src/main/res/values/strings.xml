@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buisnes_card</string>
+    <string name="card_subtitle">Android Developer Extoardinarie</string>
+    <string name="buisnes_dev_name">Alexandr Sergeevich</string>
+    <string name="phone_number">+7 (999) 999 99 99</string>
+    <string name="tag_dev">\@AndroidDev</string>
+    <string name="email">email@gmail.com</string>
+</resources>
